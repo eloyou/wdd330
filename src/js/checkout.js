@@ -1,4 +1,4 @@
-import { loadHeaderFooter, alertMessage, removeAllAlerts } from "./utils.mjs";
+import { loadHeaderFooter, alertMessage } from "./utils.mjs";
 import CheckoutProcess from "./checkoutProcess.mjs";
 
 loadHeaderFooter();
